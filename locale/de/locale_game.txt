@@ -1,3 +1,0 @@
-// add
-
-KEEP_REFINE_WINDOW_OPEN	Uppfenster offen halten

@@ -1,0 +1,3 @@
+// add
+
+KEEP_REFINE_WINDOW_OPEN	Keep refine window open

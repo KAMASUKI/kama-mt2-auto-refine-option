@@ -1,6 +1,6 @@
 # add under imports
 
-import app, chrmgr, item, net, player, os, json, _winreg
+import app
 
 if app.ENABLE_REFINE_RENEWAL:
 	IS_AUTO_REFINE = False

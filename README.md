@@ -1,3 +1,5 @@
+# kama-mt2-auto-refine-option
+
 Auto refine option when you upgrade the item with SCROLL or on NPC.
 
 When you have just one scroll in inventory, refine window will be close.
